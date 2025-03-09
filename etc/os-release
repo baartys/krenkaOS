@@ -1,0 +1,13 @@
+PRETTY_NAME="krenkaOS 1e.25 LTS"
+NAME="krenkaOS"
+VERSION_ID="1e.25"
+VERSION="1e.25 LTS (Miroslav Marek)"
+VERSION_CODENAME=miroslav
+ID=krenkaos
+ID_LIKE=debian
+HOME_URL="https://www.linux.krenka.cz/"
+SUPPORT_URL="https://www.linux.krenka.cz/"
+BUG_REPORT_URL="https://www.linux.krenka.cz/"
+PRIVACY_POLICY_URL="https://www.linux.krenka.cz/"
+UBUNTU_CODENAME=miroslav
+LOGO=ubuntu-logo
